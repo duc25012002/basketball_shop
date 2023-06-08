@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733918042178",
+    "firebase_url": "https://serene-flare-367716-default-rtdb.firebaseio.com",
+    "project_id": "serene-flare-367716",
+    "storage_bucket": "serene-flare-367716.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733918042178:android:acc0a67a85a22e8c2275db",
+        "android_client_info": {
+          "package_name": "com.example.sportclothes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733918042178-dv357v022bqmkh664kerqhgs1bfu69i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportclothes",
+            "certificate_hash": "e3cea50b11d1b45c06316af205817d90b8ae0d22"
+          }
+        },
+        {
+          "client_id": "733918042178-2qdrtqsa4kkoslcqbgebgg28grcamkht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIQB8OlMeYgb1nOakh_G6jUi1nPGOBD7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733918042178-2qdrtqsa4kkoslcqbgebgg28grcamkht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
